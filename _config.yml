@@ -93,7 +93,7 @@ collections:
 #   - vendor/ruby/
 
 # Google analytics id. Add your tracking id to get visitor stats.
-google_analytics: G-0L7R6NNV7Z # tracking id
+google_analytics: G-8BSG9ELJE9 # tracking id
 # jekyll_analytics:
 #   GoogleAnalytics:          # Add, if you want to track with Google Analytics
 #     id: UA-215555336-1       # Required - replace with your tracking id
