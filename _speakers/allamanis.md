@@ -15,4 +15,4 @@ img: allamanis.jpg
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->
-Miltos Allamanis is a principal researcher at Micorsoft research. His research interests are Machine Learning for Code and Machine Learning for Structured & Dynamic Objects.
+Miltos Allamanis is a principal researcher in Microsoft Research, Cambridge UK working at the intersection of machine learning, programming languages, and software engineering. His research aims to combine the rich structural aspects of programming languages with machine learning to create better tools for developers, while using problems in this area to motivate machine learning research. He obtained my PhD from the University of Edinburgh, UK.
