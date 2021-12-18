@@ -5,7 +5,7 @@ sequence_id: 3
 name: Disha Shrivastava
 
 # Link to the organizer's webpage
-webpage: https://www.arunraja.dev/
+webpage: https://shrivastavadisha.github.io
 
 # Primary affiliation
 affil:  Quebec Artificial Intelligence Institute (Mila)
