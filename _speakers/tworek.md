@@ -3,7 +3,7 @@
 name: Jerry Tworek
 
 # Link to the speaker's webpage
-webpage: http://www.phontron.com/
+webpage: https://blog.millionintegrals.com/
 
 # Primary affiliation of the speaker
 affil: OpenAI
