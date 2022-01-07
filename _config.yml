@@ -44,8 +44,8 @@ header_pages:
 - papers.md
 - contactus.md
 
-# # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
-# masthead: assets/img/banner.jpg
+# Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
+masthead: assets/img/logo.png
 # # Description (alt text) for the masthead
 # masthead_description: Adapted from Machine Learning & Artificial Intelligence by mikemacmarketing; licensed under CC BY 2.0
 
