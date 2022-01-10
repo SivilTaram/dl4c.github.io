@@ -13,7 +13,7 @@ We invite original research paper submissions from a wide range of topics relate
 * **Static Code Analysis:** e.g., control and data flow analysis, parsing, name resolution.
 * **Evaluation of Code Models:** e.g., correctness, systematic generalization, property-based testing, behaviour under adversarial attacks, security analyses, benchmarking.
 
-Please consider submitting a paper describing your work, which can be research papers, technical papers, position papers, or system demonstrations. We are calling for short papers primarily (up to 4 pages of content plus unlimited references), but longer papers can be accepted as well. DL4C is non-archival and thus dual submission is allowed where permitted by third parties.
+Please consider submitting a paper describing your work, which can be research papers, technical papers, position papers, or system demonstrations. We are calling for short papers primarily (up to 4 pages of content plus unlimited references), but longer papers can be accepted as well. DL4C is non-archival and thus dual submission is allowed where permitted by third parties. To prepare your submission, please use the LaTeX style files for ICLR 2022, provided at https://github.com/ICLR/Master-Template/raw/master/archive/iclr2022.zip.
 
 # Important dates:
 
