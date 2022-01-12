@@ -1,5 +1,5 @@
 ---
-sequence_id: 2
+sequence_id: 1
 
 # Name of the organizer
 name: Gabriel Orlanski

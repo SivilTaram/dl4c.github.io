@@ -1,5 +1,5 @@
 ---
-sequence_id: 1
+sequence_id: 0
 
 # Name of the organizer
 name: Torsten Scholak
