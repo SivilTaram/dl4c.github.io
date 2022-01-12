@@ -63,7 +63,6 @@ collections:
   speakers:
     output: true
   organizers:
-    sort_by: sequence_id
     output: true
   # schedule:
   #   sort_by: sequence_id
