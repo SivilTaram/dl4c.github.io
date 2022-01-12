@@ -4,7 +4,7 @@ title: Preliminary Schedule
 permalink: /schedule/
 ---
 
-All times are in EST.
+<!-- All times are in EST.
 
 | Time    | Speaker                        | Title                            |
 |---------|--------------------------------|----------------------------------|
@@ -22,4 +22,4 @@ All times are in EST.
 | 3:15pm  |                                | Coffee Break                     |
 | 3:30pm  |                                | Panel Discussion                 |
 | 4:15pm  |                                | Poster Session 2                 |
-| 5:00pm  | Organizers                     | End                              |
+| 5:00pm  | Organizers                     | End                              | -->

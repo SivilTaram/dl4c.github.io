@@ -1,13 +1,13 @@
 ---
 # Determines which item appears first on the schedule (lowest number (0) appears first)
-sequence_id: 0
+sequence_id: 8
 
 # Speaker name
-speaker: Organizers
+# speaker: Organizers
 
 # Title of the event
-title: Opening Remarks
+title: Poster Sessions
 
 # Time of the event
-time: 08:00 AM - 08:10 AM
+time: 01:00 PM - 02:30 PM
 ---

@@ -64,9 +64,8 @@ collections:
     output: true
   organizers:
     output: true
-  # schedule:
-  #   sort_by: sequence_id
-  #   output: true
+  schedule:
+    output: true
   # papers:
   #   sort_by: sequence_id
   #   output: true
