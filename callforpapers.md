@@ -19,3 +19,14 @@ Please consider submitting a paper describing your work, which can be research p
 
 * Submissions will open soon at [https://openreview.net/group?id=ICLR.cc/2022/Workshop/DL4C](https://openreview.net/group?id=ICLR.cc/2022/Workshop/DL4C).
 * **Submissions will close February 11th 11:59 PM AoE**.
+
+
+## FAQ
+
+##### **Are we allowed to submit a paper with an appendix?** 
+
+Yes, you can submit an appendix but reviewers will be instructed to only review the first 8 pages excluding references.
+
+##### **Will the OpenReview be open to the public?**
+
+The papers will be public but the **reviews** will be private. 
