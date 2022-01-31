@@ -5,10 +5,10 @@ sequence_id: 0
 name: Torsten Scholak
 
 # Link to the organizer's webpage
-webpage: https://twitter.com/tscholak
+webpage: https://tscholak.github.io
 
 # Primary affiliation
-affil: Element AI a ServiceNow Company
+affil: ServiceNow Research
 # Link to the primary affiliation
 affil_link: https://www.elementai.com/
 
