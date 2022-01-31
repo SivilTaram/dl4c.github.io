@@ -8,9 +8,9 @@ name: Dzmitry Bahdanau
 webpage: https://rizar.github.io/
 
 # Primary affiliation
-affil: Element AI a ServiceNow Company
+affil: ServiceNow Research
 # Link to the primary affiliation
-affil_link: https://www.elementai.com/
+affil_link: https://www.servicenow.com/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
 img: dima.jpg
