@@ -4,6 +4,8 @@ title: Call for Papers
 permalink: /callforpapers/
 ---
 
+**Update:** Submissions are now open at [https://openreview.net/group?id=ICLR.cc/2022/Workshop/DL4C](https://openreview.net/group?id=ICLR.cc/2022/Workshop/DL4C)!
+
 We invite original research paper submissions from a wide range of topics related to deep learning for code, including but not limited to:
 
 * **AI Code Assistants:** full systems that support developers in understanding and/or writing code through, e.g., code completion, repair, synthesis, and/or verification.
@@ -17,8 +19,8 @@ Please consider submitting a paper describing your work, which can be research p
 
 ## Important Dates
 
-* Submissions will open soon at [https://openreview.net/group?id=ICLR.cc/2022/Workshop/DL4C](https://openreview.net/group?id=ICLR.cc/2022/Workshop/DL4C).
-* **Submissions will close February 11th 11:59 PM AoE**.
+* **Abstract submissions will close February 11th 11:59 PM AoE**.
+* **Article submissions will close February 18th 11:59 PM AoE**.
 
 
 ## FAQ
