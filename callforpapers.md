@@ -32,3 +32,5 @@ Yes, you can submit an appendix but reviewers will be instructed to only review 
 ##### **Will the OpenReview be open to the public?**
 
 The papers will be public but the **reviews** will be private. 
+
+##### **Anonymity Requirements**
