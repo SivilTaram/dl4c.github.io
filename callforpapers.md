@@ -34,3 +34,5 @@ Yes, you can submit an appendix but reviewers will be instructed to only review 
 The papers will be public but the **reviews** will be private. 
 
 ##### **Anonymity Requirements**
+
+Submissions should be anonymized for a double review, but we do not set an anonymity period.
