@@ -56,7 +56,7 @@ Furthermore, for authors of work accepted at ICLR 2022 who wish to promote their
 
 Go to [https://openreview.net/group?id=ICLR.cc/2022/Workshop/DL4C](https://openreview.net/group?id=ICLR.cc/2022/Workshop/DL4C) and click on the "ICLR 2022 Workshop DL4C Submission" button.
 
-Authors of papers accepted at ICLR 2022 and who wish to submit their work to the workshop do so by [contacting us](/contactus) via email.
+Authors of papers accepted at ICLR 2022 who wish to submit their work to the workshop do so by [contacting us](/contactus) via email.
 
 ##### **Are we allowed to submit a paper with an appendix?** 
 
