@@ -19,8 +19,7 @@ Please consider submitting a paper describing your work, which can be research p
 
 ## Important Dates
 
-* **Abstract submissions will close February 25th 11:59 PM AoE**.
-* **Article submissions will close February 25th 11:59 PM AoE**.
+* **Article submissions will close February 25th 11:59 PM AoE**. There is no separate deadline for abstracts.
 * **Author notification will be sent out by March 25th 11:59 PM AoE**.
 * **Camera-ready papers will be due April 3rd 11:59 PM AoE**.
 * **Posters will be due at a later date (tbd)**.
@@ -49,7 +48,7 @@ We accept:
 
 1. Fully original work not submitted elsewhere.
 2. Work that is submitted elsewhere and is still under review. If you submit, make sure you are not violating the submission guidelines and anonymity requirements of the other venue(s).
-3. Work that has been rejected at ICRL 2022 and is being submitted again to DL4C.
+3. Work that has been rejected at ICRL 2022.
 4. Work that has been accepted at ICRL 2022. The DL4C organizers will decide if the work is going to be cross-listed on the DL4C website. The decision is based solely on relevance to DL4C; there will not be a review process for the work. Such submissions are exempt from spotlighting, and a poster slot is negotiable upon request. Please [contact us](/contactus).
 
 ##### **Are we allowed to submit a paper with an appendix?** 
@@ -59,6 +58,8 @@ Yes, you can submit an appendix but reviewers will be instructed to only review 
 ##### **How do I submit a paper?**
 
 Go to [https://openreview.net/group?id=ICLR.cc/2022/Workshop/DL4C](https://openreview.net/group?id=ICLR.cc/2022/Workshop/DL4C) and click on the "ICLR 2022 Workshop DL4C Submission" button.
+
+Authors of papers accepted at ICRL 2022 and who wish to submit their work to the workshop do so by [contacting us](/contactus) via email.
 
 ##### **How do I submit a poster?**
 
