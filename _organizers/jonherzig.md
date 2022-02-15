@@ -8,9 +8,9 @@ name: Jonathan Herzig
 webpage: https://jonathanherzig.github.io/
 
 # Primary affiliation
-affil: Tel-Aviv University
+affil: Google Research
 # Link to the primary affiliation
-affil_link: https://en-exact-sciences.tau.ac.il/computer
+affil_link: https://research.google/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
 img: jonherzig.jpg
