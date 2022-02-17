@@ -1,6 +1,6 @@
 ---
 # Determines which item appears first on the schedule (lowest number (0) appears first)
-sequence_id: 11
+sequence_id: 8
 
 # Speaker name
 # speaker: Organizers
@@ -9,5 +9,5 @@ sequence_id: 11
 title: Panel Discussion
 
 # Time of the event
-time: 03:30 PM - 04:15 PM
+time: 01:00 PM - 02:00 PM
 ---

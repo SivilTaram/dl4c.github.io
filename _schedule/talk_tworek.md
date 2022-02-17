@@ -1,6 +1,6 @@
 ---
 # Determines which item appears first on the schedule (lowest number (0) appears first)
-sequence_id: 9
+sequence_id: 11
 speaker: Jerry Tworek
 # Link to the speaker's webpage
 webpage: https://blog.millionintegrals.com/
@@ -16,5 +16,5 @@ img: tworek.jpeg
 title: Invited Talk 5
 
 # Time of the event
-time: 02:30 PM - 03:15 PM
+time: 03:30 PM - 04:15 PM
 ---
