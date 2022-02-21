@@ -9,5 +9,5 @@ speaker: Organizers
 title: Opening Remarks
 
 # Time of the event
-time: 08:00 AM - 08:10 AM
+time: 08:00 AM - 08:15 AM
 ---

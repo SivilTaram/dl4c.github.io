@@ -9,5 +9,5 @@ sequence_id: 9
 title: Poster Sessions
 
 # Time of the event
-time: 02:00 PM - 03:30 PM
+time: 02:00 PM - 03:15 PM
 ---
