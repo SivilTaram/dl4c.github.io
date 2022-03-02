@@ -4,7 +4,6 @@ title: Call for Papers
 permalink: /callforpapers/
 ---
 
-**Update:** Submissions are now open at [https://openreview.net/group?id=ICLR.cc/2022/Workshop/DL4C](https://openreview.net/group?id=ICLR.cc/2022/Workshop/DL4C)!
 
 We invite original research paper submissions from a wide range of topics related to deep learning for code, including but not limited to:
 
@@ -19,7 +18,7 @@ Please consider submitting a paper describing your work, which can be research p
 
 ## Important Dates
 
-* **Article submissions will close February 25th 11:59 PM AoE**. There is no separate deadline for abstracts.
+* ~~**Article submissions will close February 25th 11:59 PM AoE**. There is no separate deadline for abstracts.~~
 * **Author notification will be sent out by March 25th 11:59 PM AoE**.
 * **Camera-ready papers will be due April 3rd 11:59 PM AoE**.
 * **Posters will be due at a later date (tbd)**.
