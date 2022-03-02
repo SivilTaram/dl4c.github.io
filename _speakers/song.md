@@ -11,7 +11,8 @@ affil: University of California, Berkeley
 affil_link: https://eecs.berkeley.edu/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: song.jpg
+img: 
+    - song.jpg
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->

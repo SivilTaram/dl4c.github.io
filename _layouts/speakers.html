@@ -15,15 +15,13 @@ layout: default
 		        <td style="border: none;">
 		            <div class="col-xs-6">
 		                <p align="center">
-		                	{% if speaker.img %}
-		                    	<img class="people-pic" src="{{ speaker.img | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-		                    {% else %}
-		                    	<img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-		                    {% endif %}
+							{% for image in speaker.img %}
+								<img class="people-pic" src="{{ image | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+							{% endfor %}
 		                </p>
 		            </div>
 		        </td>
-		        <td style="border: none;">
+		        <td style="border: none;width:200px">
 		            <div class="people-name text-center">
 		            	<!-- Speaker name (link to webpage if provided) -->
 		            	{% if speaker.webpage %}

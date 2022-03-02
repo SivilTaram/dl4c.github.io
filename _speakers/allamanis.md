@@ -11,7 +11,8 @@ affil: Microsoft Research
 affil_link: https://www.microsoft.com/en-us/research/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: allamanis.jpg
+img: 
+    - allamanis.jpg
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->

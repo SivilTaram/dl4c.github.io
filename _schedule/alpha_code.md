@@ -1,7 +1,7 @@
 ---
 # Determines which item appears first on the schedule (lowest number (0) appears first)
 sequence_id: 6
-speaker: Alpha Code
+speaker: The AlphaCode Team
 # # Link to the speaker's webpage
 webpage: https://www.deepmind.com/blog/article/Competitive-programming-with-AlphaCode
 

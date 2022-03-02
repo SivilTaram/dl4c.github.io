@@ -1,6 +1,6 @@
 ---
 layout: schedule
-title: Preliminary Schedule
+title: Schedule
 permalink: /schedule/
 ---
 

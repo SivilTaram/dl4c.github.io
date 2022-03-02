@@ -11,7 +11,8 @@ affil: Carnegie Mellon University
 affil_link: https://www.lti.cs.cmu.edu/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: neubig.jpg
+img: 
+    - neubig.jpg
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->

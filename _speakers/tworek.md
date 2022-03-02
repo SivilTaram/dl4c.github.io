@@ -11,7 +11,8 @@ affil: OpenAI
 affil_link: https://openai.com/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: tworek.jpg
+img: 
+    - tworek.jpg
 ---
 
 <!-- Whatever you write below will show up as the speaker's bio -->
