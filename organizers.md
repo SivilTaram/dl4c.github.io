@@ -44,4 +44,3 @@ permalink: /organizers/
 * Felix Axel	(Gimeno Gil	DeepMind (AlphaBet))
 * Yu	Gu	(The Ohio State University)
 * Naman	Jain	(Microsoft Research)
-* Alexander Bezzubov (JetBrains)
