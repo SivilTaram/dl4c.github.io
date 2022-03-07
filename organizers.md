@@ -34,7 +34,7 @@ permalink: /organizers/
 * Riddhiman	Dasgupta	(Microsoft)
 * Alex	Bezzubov	(JetBrains)
 * Rajaswa	Patil	(Tata Consultancy Services (TCS) - Research)
-* Martin	Weyssow	(DIRO, Université de Montréal)
+* Martin	Weyssow	(DIRO, University of Montreal)
 * Vincent	Hellendoorn	(Carnegie Mellon University)
 * Erfan Al-Hossami (University of North Carolina at Charlotte)
 * Gabriel	Gordon-Hall
