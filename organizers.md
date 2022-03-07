@@ -36,9 +36,8 @@ permalink: /organizers/
 * Rajaswa	Patil	(Tata Consultancy Services (TCS) - Research)
 * Martin	Weyssow	(DIRO, Université de Montréal)
 * Vincent	Hellendoorn	(Carnegie Mellon University)
-* Erfan	Al-(Hossami	University of North Carolina at Charlotte)
+* Erfan Al-Hossami (University of North Carolina at Charlotte)
 * Gabriel	Gordon-Hall
-* Kevin	Moran	(George Mason University)
 * Giovanni	De Toni	(University of Trento, Fondazione Bruno Kessler (FBK), European Lab for Learning and Intelligent Systems (ELLIS))
 * Nghi	Bui	(Huawei Research, Ireland)
 * Felix Axel	(Gimeno Gil	DeepMind (AlphaBet))
