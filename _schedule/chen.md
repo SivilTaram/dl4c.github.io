@@ -1,9 +1,9 @@
 ---
 # Determines which item appears first on the schedule (lowest number (0) appears first)
 sequence_id: 12
-speaker: Dawn Song
+speaker: Xinyun Chen
 # Link to the speaker's webpage
-webpage: https://people.eecs.berkeley.edu/~dawnsong/
+webpage: https://jungyhuk.github.io/
 
 # Primary affiliation of the speaker
 affil: University of California, Berkeley
@@ -11,7 +11,7 @@ affil: University of California, Berkeley
 affil_link: https://eecs.berkeley.edu/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: song.jpg
+img: XinyunChen.jpg
 # Title of the event
 title: Invited Talk 6
 
