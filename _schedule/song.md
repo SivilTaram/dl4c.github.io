@@ -16,5 +16,5 @@ img: song.jpg
 title: Invited Talk 6
 
 # Time of the event
-time: 04:15 AM - 05:00 PM
+time: 04:15 PM - 05:00 PM
 ---
