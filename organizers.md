@@ -13,8 +13,9 @@ permalink: /organizers/
 * Denys	Poshyvanyk	(William and Mary)
 * Eran	Yahav	(Technion & Tabnine)
 * Erfan Al-Hossami (University of North Carolina at Charlotte)
-* Felix Axel	(Gimeno Gil	DeepMind (AlphaBet))
+* Felix Axel Gimeno Gil	(DeepMind (AlphaBet))
 * Gabriel	Gordon-Hall
+* Gaurav Sahu (University of Waterloo)
 * Giovanni	De Toni	(University of Trento, Fondazione Bruno Kessler (FBK), European Lab for Learning and Intelligent Systems (ELLIS))
 * Harm	de Vries	(Service Now)
 * Huan	Sun	(The Ohio State University)
@@ -33,7 +34,6 @@ permalink: /organizers/
 * Qibin	Chen	(Carnegie Mellon University)
 * Rajaswa	Patil	(Tata Consultancy Services (TCS) - Research)
 * Richard	Shin	(Microsoft Semantic Machines)
-* Riddhiman	Dasgupta	(Microsoft)
 * Ruiqi	Zhong	(University of California, Berkeley)
 * Sandya	Mannarswamy	(Intel Corporation)
 * Shaked	Brody	(Technion)
