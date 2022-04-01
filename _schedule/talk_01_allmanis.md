@@ -6,5 +6,5 @@ affil: Microsoft Research
 affil_link: https://www.microsoft.com/en-us/research/
 img: allamanis.jpg
 title: Invited Talk 1
-time: 08:10 AM - 09:00 AM
+time: 08:15 AM - 09:00 AM
 ---
