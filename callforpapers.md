@@ -19,10 +19,12 @@ Please consider submitting a paper describing your work, which can be research p
 ## Important Dates
 
 * ~~**Article submissions will close February 25th 11:59 PM AoE**. There is no separate deadline for abstracts.~~
-* **Author notification will be sent out by March 25th 11:59 PM AoE**.
-* **Camera-ready papers will be due April 3rd 11:59 PM AoE**.
-* **Posters will be due at a later date (tbd)**.
-* **The workshop will be held virtually on April 29th**. 
+* ~~**Author notification will be sent out by March 25th 11:59 PM AoE**.~~
+* **Camera-ready papers will be due April 20th 11:59 PM AoE**.
+* **Posters will be due April 20th 11:59 PM AoE**.
+* **The workshop will be held virtually on April 29th**.
+
+Authors of accepted papers should check their email (and spam folder) for instructions on how to submit their camera-ready paper and poster.
 
 
 ## FAQ
