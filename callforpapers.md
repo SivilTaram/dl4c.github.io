@@ -63,9 +63,20 @@ Authors of papers accepted at ICLR 2022 who wish to submit their work to the wor
 
 Yes, you can submit an appendix but reviewers will be instructed to only review the first 8 pages excluding references.
 
+##### **Best Paper Awards**
+
+Thanks to our amazing [sponsors](/sponsors), we are able to offer the following awards for the best DL4C papers.
+
+* $1000 (sponsored by [ServiceNow](https://www.servicenow.com/))
+* 1 GPU (sponsored by [NVIDIA](https://www.nvidia.com/))
+
+(The exact amounts and items may be subject to changes since we are still defining them.)
+
+Only Ph.D. students are eligible to participate. Government officials, public sector officials, and employees of entities who do business in the Public Sector are not eligible to participate. ServiceNow reserves the right not to make the award if the recipient turns out to be a government official, public sector official, or individual who does business in the public sector.
+
 ##### **How do I submit a poster?**
 
-We are not accepting posters at this time. An announcement will be made once we do.
+Posters can be submitted through the [ICLR Poster Upload](https://iclr.cc/PosterUpload) page.
 
 ##### **How do I submit a demo?**
 
