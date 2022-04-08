@@ -13,7 +13,7 @@ affil_link: https://www.deepmind.com/
 # # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
 # img: song.jpg
 # Title of the event
-title: Invited Talk 4
+title: Competitive Programming with AlphaCode
 
 # Time of the event
 time: 11:15 AM - 12:00 PM
