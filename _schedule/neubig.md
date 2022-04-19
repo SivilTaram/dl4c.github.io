@@ -16,7 +16,7 @@ affil_link: https://www.lti.cs.cmu.edu/
 img: neubig.jpg
 
 # Title of the event
-title: Invited Talk 3
+title: "In-IDE Code Generation from Natural Language: Promise and Challenges"
 
 # Time of the event
 time: 10:30 AM - 11:15 AM
