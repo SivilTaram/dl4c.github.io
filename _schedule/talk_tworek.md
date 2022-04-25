@@ -13,7 +13,7 @@ affil_link: https://openai.com/
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
 img: tworek.jpeg
 # Title of the event
-title: Invited Talk 5
+title:  "Where generative models meet search: a brief history of recent advancements in neural program synthesis."
 
 # Time of the event
 time: 03:30 PM - 04:15 PM

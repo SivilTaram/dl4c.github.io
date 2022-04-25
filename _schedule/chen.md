@@ -13,7 +13,7 @@ affil_link: https://eecs.berkeley.edu/
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
 img: XinyunChen.jpg
 # Title of the event
-title: Invited Talk 6
+title: Learning to Model Structures and Execution for Program Synthesis
 
 # Time of the event
 time: 04:15 PM - 05:00 PM
