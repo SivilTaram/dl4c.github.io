@@ -73,7 +73,7 @@ Authors of papers accepted at ICLR 2023 who wish to submit their work to the wor
 
 Yes, you can submit an appendix but reviewers will be instructed to only review the first 8 pages excluding references.
 
-##### **Best Paper Awards**
+##### **Awards and prizes**
 
 We will have awards at the workshop. The details will be announced later.
 
