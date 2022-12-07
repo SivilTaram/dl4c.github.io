@@ -67,6 +67,8 @@ collections:
     output: true
   schedule:
     output: true
+  2022/organizers:
+    output: true
   # papers:
   #   sort_by: sequence_id
   #   output: true
