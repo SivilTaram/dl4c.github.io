@@ -4,15 +4,14 @@ title: Call for Papers
 permalink: /callforpapers/
 ---
 
-
 We invite original research paper submissions from a wide range of topics related to deep learning for code, including but not limited to:
 
-* **HCI:** human interaction with DL models for code in various tasks and settings like code generation, translation, and repair including modeling human intent
-* **Evaluation:** benchmarks for DL for code standardizing how models are evaluated
-* **Inference Methods:** improvements relating to, e.g., speed, cost-efficiency, or use of structured information provided by static analysis or dynamic program execution
-* **Responsible AI:** being fair, civil, secure, robust, and respecting privacy
-* **Open science:** establish and follow open-science practices of sharing code, models, and data
-* **AI Code Assistants:** supporting developers in understanding and/or writing code through, e.g., code summarization, completion, repair, refactoring, optimization
+* **HCI:** human interaction with DL models for code in various tasks and settings like code generation, translation, and repair including modeling human intent.
+* **Evaluation:** benchmarks for DL for code standardizing how models are evaluated and compared.
+* **Inference Methods:** improvements relating to, e.g., speed, cost-efficiency, or use of structured information provided by static analysis or dynamic program execution.
+* **Responsible AI:** being fair, civil, secure, robust, and respecting privacy and human rights.
+* **Open science:** establish and follow open-science practices of sharing code, models, and data.
+* **AI Code Assistants:** supporting developers in understanding and/or writing code through, e.g., code summarization, search, completion, repair, refactoring, optimization.
 * **Learning from Human Feedback:** using techniques like RL for improving learning of DL models based on human preferences.
 * **Representations and Model Architectures for Code:** based, e.g., on grammar- and graph-based representations or integrating symbolic reasoning with deep learning.
 * **Pre-training Methods for Code:** explorations of data-preparation and pre-training strategies tailored for code.
