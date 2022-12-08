@@ -18,7 +18,7 @@ We invite original research paper submissions from a wide range of topics relate
 * **Translation from Natural Language to Code or Vice Versa:** tutorial writing, code generation, code summarization, semantic parsing, theorem proving, etc.
 * **Static Code Analysis:** e.g., control and data flow analysis, parsing, name resolution.
 
-Please consider submitting a paper describing your work, which can be research papers, technical papers, position papers, or system demonstrations. We are calling for papers primarily with 4-8 pages of content plus unlimited references, but in exceptional cases longer papers can be accepted as well. To prepare your submission, please use the LaTeX style files for ICLR 2023, provided at [https://github.com/ICLR/Master-Template/raw/master/iclr2023.zip](https://github.com/ICLR/Master-Template/raw/master/iclr2023.zip).
+Please consider submitting a paper describing your work, which can be research papers, technical papers, position papers, or system demonstrations. We are calling for papers with 4 to up to 8 pages of content plus unlimited references. To prepare your submission, please use the LaTeX style files for ICLR 2023, provided at [https://github.com/ICLR/Master-Template/raw/master/iclr2023.zip](https://github.com/ICLR/Master-Template/raw/master/iclr2023.zip).
 
 ## Important Dates
 
