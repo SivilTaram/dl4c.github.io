@@ -28,7 +28,7 @@ Please consider submitting a paper describing your work, which can be research p
 * Accept/reject notifications will be sent **March 3rd, 2023.**
 * Authors of spotlighted papers will be invited to give a short talk at the workshop and will be notified with details shortly after the acceptance notifications.
 * Camera-ready pdfs and posters of accepted submissions are due by April 21st, 2023 11:59 PM AoE.
-* Accepted submissions will be posted online on OpenReview and on the workshop website on **April 22st, 2023**, and not before. Rejected or withdrawn submissions will not be posted.
+* [Updated date to accomondate ACL timeline] Accepted submissions will be posted online on OpenReview and on the workshop website on **May 1st, 2023**, and not before. Rejected or withdrawn submissions will not be posted.
 * The workshop will take place virtually on **May 5th, 2023**.
 
 DL4C is **non-archival** and thus **dual submission is allowed** where permitted by third parties. Please see the FAQ below for more details.
