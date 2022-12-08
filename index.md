@@ -10,11 +10,15 @@ layout: home
 
 ![](assets/img/dl4c_large_banner.jpg)
 
-DL4C(Deep Learning For Code) is a new workshop that will be held virtually at ICLR 2022.
+We are pleased to announce that Deep Learning for Code (DL4C) is returning to ICLR on **May 5, 2023**!
 
+The second DL4C workshop will provide a vibrant virtual platform for researchers to share their work on deep learning for code, emphasizing recent advances and challenges, for example: HCI for Code, Evaluation for Code, Inference for Code, Responsible AI for Code, and Open Sourcing efforts in deep learning for code.
 
-An exciting application of deep learning methods is completion, repair, or synthesis of program code. This field has received a fair amount of attention in the last decade, yet arguably the recent application of large-scale language modelling techniques holds a tremendous promise to completely revolutionize this area ([Chen et al., 2021](https://arxiv.org/abs/2107.03374); [Austin et al., 2021](https://arxiv.org/abs/2108.07732)). The new large pretrained models excel at completing code and synthesizing code from natural language descriptions; they work across a wide range of domains, tasks, and programming languages. The excitement about new possibilities is spurring tremendous interest in both industry and academia. Yet, we are just beginning to explore the potential of large-scale deep learning for code, and state-of-the-art models still struggle with correctness and generalization. This calls for platforms to exchange ideas and discuss the challenges in this line of work.
+Please join us for a day of exciting talks, posters, and discussions on the latest advances in deep learning for code!
 
+<!-- Our [call for papers](/callforpapers) is now open. Please submit your work by **February 3rd, 2023, 11:59 PM AoE**. -->
+
+<!-- We are excited to announce our amazing [invited speakers](/speakers)! -->
 
 <!-- The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented:
 1. **Speakers**: Curate a [speaker list like this one](speakers) from a set of markdown files, one per speaker. Crops and displays images if available. Adds a short bio. See files in the `_speakers` directory for examples.
