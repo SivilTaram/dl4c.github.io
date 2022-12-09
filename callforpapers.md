@@ -41,8 +41,8 @@ Authors should check their email (and spam folder) for acceptance decisions and 
 We will implement the following policy:
 
 1. All submissions will be private -- to their respective authors, to the reviewers assigned to review them, and to the workshop organizers -- until the camera-ready due date, April 21st, 2023.
-2. We will communicate the accept/reject decisions individually and privately to the respective authors on March 3rd, 2023. The authors will be able to see the reviews and the decision on OpenReview, but no information will be made public until April 21st, 2023.
-3. Accepted submissions (abstract + pdf) will be publicly visible only after April 21st, 2023, that is, when the camera-ready pdfs are available. At that point, everyone will be able to see the abstracts and the pdfs of the accepted submissions.
+2. We will communicate the accept/reject decisions individually and privately to the respective authors on March 3rd, 2023. The authors will be able to see the reviews and the decision on OpenReview, but no information will be made public until May 1st, 2023.
+3. Accepted submissions (abstract + pdf) will be publicly visible only after May 1st, 2023. At that point, everyone will be able to see the abstracts and the pdfs of the accepted submissions.
 4. Rejected and withdrawn submissions will not become public.
 5. Reviews will not be made public. They will be visible only to the authors, the reviewers who will have written them, and the organizers.
 
