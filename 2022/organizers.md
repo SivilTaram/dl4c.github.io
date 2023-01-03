@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: 2022/organizers
 title: Organizers
 permalink: /2022/organizers/
----
+--- -->
 
 * Alex	Bezzubov	(JetBrains)
 * Alex	Gu	(MIT CSAIL)
