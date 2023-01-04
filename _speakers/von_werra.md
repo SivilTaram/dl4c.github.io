@@ -13,3 +13,5 @@ affil_link: https://huggingface.co/
 img: 
     - leandro.png
 ---
+
+Leandro von Werra is a machine learning engineer in the open source team at Hugging Face. He has several years of industry experience bringing NLP projects to production by working across the whole machine learning stack, and is the creator of a popular Python library called TRL, which combines transformers with reinforcement learning. He also co-leads the BigCode project that aims at developing large language models for code in an open and responsible way.
