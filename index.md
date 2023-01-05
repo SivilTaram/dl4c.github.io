@@ -10,7 +10,7 @@ layout: home
 
 ![](assets/img/dl4c_large_banner.jpg)
 
-We are pleased to announce that Deep Learning for Code (DL4C) is returning to ICLR on **May 5, 2023**!
+We are pleased to announce that Deep Learning for Code (DL4C) is returning to ICLR on **May 5, 2023**! The submission deadline is **February 3rd, 11:59PM AOE**. The link to submit is here located [here](https://openreview.net/group?id=ICLR.cc/2023/Workshop/DL4C)
 
 The second DL4C workshop will provide a vibrant virtual platform for researchers to share their work on deep learning for code, emphasizing recent advances and challenges, for example: HCI for Code, Evaluation for Code, Inference for Code, Responsible AI for Code, and Open Sourcing efforts in deep learning for code.
 
