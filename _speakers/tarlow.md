@@ -6,7 +6,7 @@ name: Daniel Tarlow
 webpage: http://www.cs.toronto.edu/~dtarlow/
 
 # Primary affiliation of the speaker
-affil: Google Brain
+affil: Google Brain / MILA
 # Link to the speaker's primary affiliation
 affil_link: https://research.google/teams/brain/
 
