@@ -3,7 +3,7 @@
 name: Alex Polozov
 
 # Link to the speaker's webpage
-webpage: http://www.cs.toronto.edu/~dtarlow/
+webpage: https://alexpolozov.com/
 
 # Primary affiliation of the speaker
 affil: Google

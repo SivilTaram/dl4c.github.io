@@ -3,7 +3,7 @@
 name: Armando Solar-Lezama
 
 # Link to the speaker's webpage
-webpage: https://www.mit.edu/~jda/
+webpage: https://people.csail.mit.edu/asolar/
 
 # Primary affiliation of the speaker
 affil: Massachusetts Institute of Technology
