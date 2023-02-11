@@ -12,10 +12,13 @@ layout: home
 
 
 
-We are pleased to announce that Deep Learning for Code (DL4C) is returning to ICLR on **May 5, 2023**! The submission deadline is **February 10th, 11:59PM AOE**. The link to submit is here located [here](https://openreview.net/group?id=ICLR.cc/2023/Workshop/DL4C)
+We are pleased to announce that Deep Learning for Code (DL4C) is returning to ICLR on **May 5, 2023**! The submission deadline is **February 12th, 11:59PM AoE**. The link to submit is here located [here](https://openreview.net/group?id=ICLR.cc/2023/Workshop/DL4C)
 
 
 #### News
+
+
+**Feb 10, 2023** Upon the request of the community, we have extended the submission deadline to **February 12th, 11:59PM AoE**. We look forward to your submissions!
 
 **Jan 24, 2023** We will extend the submission deadline to Feb. 10th 23:59 AoE. We look forward to your submissions!
 
