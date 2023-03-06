@@ -25,7 +25,7 @@ Please consider submitting a paper describing your work, which can be research p
 * Submissions will open on Dec 12, 2023 at [https://openreview.net/group?id=ICLR.cc/2023/Workshop/DL4C](https://openreview.net/group?id=ICLR.cc/2023/Workshop/DL4C).
 * [Updated] **Submissions will close February ~~3rd~~ ~~10th~~ 12th, 2023, 11:59 PM AoE.** There is no separate deadline for abstracts.
 * Withdrawals are possible until **March 3rd, 2023.**
-* Accept/reject notifications will be sent **March 3rd, 2023.**
+* Accept/reject notifications will be sent **March ~~3rd~~ 6th, 2023.**
 * Authors of spotlighted papers will be invited to give a short talk at the workshop and will be notified with details shortly after the acceptance notifications.
 * Camera-ready pdfs and posters of accepted submissions are due by April 21st, 2023 11:59 PM AoE.
 * [Updated date to accommodate ACL timeline] Accepted submissions will be posted online on OpenReview and on the workshop website on **May 1st, 2023**, and not before. Rejected or withdrawn submissions will not be posted.
