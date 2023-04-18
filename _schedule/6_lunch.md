@@ -13,8 +13,8 @@ affil_link:
 # # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
 # img: song.jpg
 # Title of the event
-title: Lunch
+title: Break
 
 # Time of the event
-time: 6:00 PM - 6:45 PM
+time: 6:15 PM - 6:45 PM
 ---

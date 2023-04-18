@@ -16,5 +16,5 @@ affil_link:
 title: Panel Discussion
 
 # Time of the event
-time: 5:15 PM - 6:00 PM
+time: 5:15 PM - 6:15 PM
 ---
