@@ -16,5 +16,5 @@ affil_link:
 title: Paper Presentation
 
 # Time of the event
-time: 9:15 PM - 9:45 PM 
+time: 9:30 PM - 10:45 PM 
 ---

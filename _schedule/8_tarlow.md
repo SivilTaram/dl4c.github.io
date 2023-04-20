@@ -16,5 +16,5 @@ affil_link: https://research.google/teams/brain/
 title: Invited Talk
 
 # Time of the event
-time: 7:30 PM - 8:15 PM
+time: 7:45 PM - 8:30 PM
 ---

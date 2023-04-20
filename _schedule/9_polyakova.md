@@ -17,5 +17,5 @@ title: Invited Talk
 
 
 # Time of the event
-time: 8:15 PM - 9:00 PM
+time: 8:30 PM - 9:15 PM
 ---

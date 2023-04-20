@@ -16,5 +16,5 @@ affil_link:
 title: Closing Remarks
 
 # Time of the event
-time: 9:45 PM - 10:00 PM
+time: 10:45 PM - 11:00 PM
 ---

@@ -16,5 +16,5 @@ affil_link:
 title: Break
 
 # Time of the event
-time: 9:00 PM - 9:15 PM
+time: 9:15 PM - 9:30 PM
 ---

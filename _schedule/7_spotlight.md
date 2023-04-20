@@ -16,5 +16,5 @@ affil_link:
 title: Best + Spotlight Papers
 
 # Time of the event
-time: 6:45 PM - 7:30 PM
+time: 6:45 PM - 7:45 PM
 ---
