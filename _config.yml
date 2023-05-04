@@ -69,9 +69,8 @@ collections:
     output: true
   2022/organizers:
     output: true
-  # papers:
-  #   sort_by: sequence_id
-  #   output: true
+  papers:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
