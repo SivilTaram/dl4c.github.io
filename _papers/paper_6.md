@@ -3,7 +3,7 @@
 sequence_id: 6
 
 # Paper title
-title: "Conversational Automated Program Repair"\n(Spotlight)
+title: "Conversational Automated Program Repair\n(Spotlight)"
 
 # Paper authors
 authors: Chunqiu Steven Xia, Lingming Zhang 
