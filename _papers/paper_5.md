@@ -3,7 +3,7 @@
 sequence_id: 5
 
 # Paper title
-title: SantaCoder: don't reach for the stars!
+title: "SantaCoder: don't reach for the stars!"
 
 # Paper pdf
 pdf: 8.pdf

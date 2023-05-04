@@ -3,7 +3,7 @@
 sequence_id: 0
 
 # Paper title
-title: A Generic Prompt for an LLM that enables NL-to-SQL across Domains and Compositions
+title: "A Generic Prompt for an LLM that enables NL-to-SQL across Domains and Compositions"
 
 # Paper pdf
 pdf: 3.pdf

@@ -3,7 +3,7 @@
 sequence_id: 10
 
 # Paper title
-title: CONTRACLM: Contrastive Learning For Causal Language Model
+title: "CONTRACLM: Contrastive Learning For Causal Language Model"
 
 # Paper pdf
 pdf: 17.pdf

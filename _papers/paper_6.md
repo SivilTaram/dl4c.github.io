@@ -3,7 +3,7 @@
 sequence_id: 6
 
 # Paper title
-title: Conversational Automated Program Repair
+title: "Conversational Automated Program Repair"
 
 # Paper pdf
 pdf: 11.pdf

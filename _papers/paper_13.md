@@ -3,7 +3,7 @@
 sequence_id: 13
 
 # Paper title
-title: ObSynth: An Interactive Synthesis System for Generating Object Models from Natural Language Specifications
+title: "ObSynth: An Interactive Synthesis System for Generating Object Models from Natural Language Specifications"
 
 # Paper pdf
 pdf: 21.pdf

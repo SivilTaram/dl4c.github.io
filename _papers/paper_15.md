@@ -3,7 +3,7 @@
 sequence_id: 15
 
 # Paper title
-title: Semantic Prefixes as an Auxiliary Target for Code Understanding and Generation
+title: "Semantic Prefixes as an Auxiliary Target for Code Understanding and Generation"
 
 # Paper pdf
 pdf: 23.pdf

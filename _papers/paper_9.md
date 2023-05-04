@@ -3,7 +3,7 @@
 sequence_id: 9
 
 # Paper title
-title: Leveraging Static Analysis for Bug Repair
+title: "Leveraging Static Analysis for Bug Repair"
 
 # Paper pdf
 pdf: 15.pdf

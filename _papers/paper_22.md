@@ -3,7 +3,7 @@
 sequence_id: 22
 
 # Paper title
-title: APerfCode: Auto Conversion to Performant Code
+title: "APerfCode: Auto Conversion to Performant Code"
 
 # Paper pdf
 pdf: 35.pdf

@@ -3,7 +3,7 @@
 sequence_id: 8
 
 # Paper title
-title: ReCode: Robustness Evaluation of Code Generation Models
+title: "ReCode: Robustness Evaluation of Code Generation Models"
 
 # Paper pdf
 pdf: 13.pdf
