@@ -9,6 +9,6 @@ title: "ObSynth: An Interactive Synthesis System for Generating Object Models fr
 authors: Alex Gu, Tamara Mitrovska, Daniela Velez, Jacob Andreas, Armando Solar-Lezama 
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 21.pdf
 
 ---

@@ -9,6 +9,6 @@ title: "A Generic Prompt for an LLM that enables NL-to-SQL across Domains and Co
 authors: Aseem Arora, Shabbirhussain Bhaisaheb, Manasi Patwardhan, Lovekesh Vig, Gautam Shroff 
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 3.pdf
 
 ---

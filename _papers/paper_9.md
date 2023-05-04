@@ -9,6 +9,6 @@ title: "Leveraging Static Analysis for Bug Repair"
 authors: Ruba Mutasim, Gabriel Synnaeve, David Pichardie, Baptiste Roziere 
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 15.pdf
 
 ---

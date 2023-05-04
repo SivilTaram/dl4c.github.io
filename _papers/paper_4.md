@@ -9,6 +9,6 @@ title: "R-U-SURE? Uncertainty-Aware Code Suggestions By Maximizing Utility Acros
 authors: Daniel D. Johnson, Daniel Tarlow, Christian Walder (Best Paper)
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 7.pdf
 
 ---

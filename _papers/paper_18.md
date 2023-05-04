@@ -9,6 +9,6 @@ title: "ScriptoriumWS: A Code Generation Assistant for Weak Supervision"
 authors: Tzu-Heng Huang, Harit Vishwakarma, Nicholas Roberts, Catherine Cao, Spencer Schoenberg, Frederic Sala 
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 30.pdf
 
 ---

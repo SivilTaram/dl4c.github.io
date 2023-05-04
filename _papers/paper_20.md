@@ -9,6 +9,6 @@ title: "Explicit Knowledge Transfer for Weakly-Supervised Code Generation"
 authors: Zhangir Azerbayev, Ansong Ni, Hailey Schoelkopf, Dragomir Radev 
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 33.pdf
 
 ---

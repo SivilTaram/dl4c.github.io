@@ -9,6 +9,6 @@ title: "DisPer: End-to-End Neural Permutation Program Synthesis"
 authors: Peter Belcak, Roger Wattenhofer 
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 5.pdf
 
 ---

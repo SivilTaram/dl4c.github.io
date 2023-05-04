@@ -9,6 +9,6 @@ title: "TASTY: A TRANSFORMER BASED APPROACH TO SPACE AND TIME COMPLEXITY"
 authors: Kaushik Moudgalya, Ankit Ramakrishnan, Vamsikrishna Chemudupati, Xing Han Lu 
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 22.pdf
 
 ---

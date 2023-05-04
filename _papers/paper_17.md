@@ -9,6 +9,6 @@ title: "CodeGen2: Lessons for Training LLMs on Programming and Natural Languages
 authors: Erik Nijkamp, Hiroaki Hayashi, Caiming Xiong, Silvio Savarese, Yingbo Zhou 
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 29.pdf
 
 ---

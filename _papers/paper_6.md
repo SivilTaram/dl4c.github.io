@@ -9,6 +9,6 @@ title: "Conversational Automated Program Repair"
 authors: Chunqiu Steven Xia, Lingming Zhang (Spotlight)
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 11.pdf
 
 ---

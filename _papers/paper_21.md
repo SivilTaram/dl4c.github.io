@@ -9,6 +9,6 @@ title: "XLCOST: A BENCHMARK DATASET FOR CROSS- LINGUAL CODE INTELLIGENCE"
 authors: Ming Zhu, Aneesh Jain, Karthik Suresh, Roshan Ravindran, Sindhu Tipirneni, Chandan K. Reddy 
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 34.pdf
 
 ---

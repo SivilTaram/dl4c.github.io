@@ -9,6 +9,6 @@ title: "CONTRACLM: Contrastive Learning For Causal Language Model"
 authors: Nihal Jain, Dejiao Zhang, Wasi Uddin Ahmad, Zijian Wang, Feng Nan, Xiaopeng Li, Ming Tan, Ramesh Nallapati, Baishakhi Ray, Parminder Bhatia, Xiaofei Ma, Bing Xiang 
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 17.pdf
 
 ---

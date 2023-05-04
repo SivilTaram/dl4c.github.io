@@ -9,6 +9,6 @@ title: "Multilingual Code Retrieval Without Paired Data: A New Benchmark and Exp
 authors: Joao Monteiro, Torsten Scholak, Virendra Mehta, David Vazquez, Christopher Pal 
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 12.pdf
 
 ---

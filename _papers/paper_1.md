@@ -9,6 +9,6 @@ title: "“If it’s what I wanted that’s great, but if it’s not, I just was
 authors: Ambar Murillo, Sarah D'Angelo, Quinn Madison, Iris Chu, Andrew Macvean 
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 4.pdf
 
 ---

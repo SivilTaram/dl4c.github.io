@@ -9,6 +9,6 @@ title: "SantaCoder: don't reach for the stars!"
 authors: Loubna Ben allal, Raymond Li, Denis Kocetkov, Chenghao Mou, Christopher Akiki, Carlos Muñoz Ferrandis, Niklas Muennighoff, Mayank Mishra, Alex Gu, Manan Dey, Logesh Kumar Umapathi, Carolyn Jane Anderson, Yangtian Zi, Hailey Schoelkopf, Sergey Troshin, Dmitry Abulkhanov, Michael Lappert, Francesco De Toni, Qian Liu, Shamik Bose, Terry Yue Zhuo, Ian Yu, Paulo Villegas, Bernardo Garcia del Rio, Marco Zocca, Sourab Mangrulkar, Urvashi Bhattacharyya, Joel Lamy-Poirier, Huu Nguyen, David Lansky, Danish Contractor, Jia LI, Dzmitry Bahdanau, Yacine Jernite, Sean Hughes, Daniel Fried, Arjun Guha, Harm de Vries, Leandro Von Werra (Best Paper)
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 8.pdf
 
 ---

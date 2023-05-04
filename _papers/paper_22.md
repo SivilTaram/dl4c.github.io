@@ -9,6 +9,6 @@ title: "APerfCode: Auto Conversion to Performant Code"
 authors: Sharod Roy Choudhury, Mayank Mishra, Rekha Singhal, Sirish Karande 
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 35.pdf
 
 ---

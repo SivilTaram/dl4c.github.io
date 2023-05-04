@@ -9,6 +9,6 @@ title: "Hierarchical Programmatic Reinforcement Learning via Learning to Compose
 authors: Guan-Ting Liu, En-Pei Hu, Pu-Jen Cheng, Hung-yi Lee, Shao-Hua Sun 
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 6.pdf
 
 ---

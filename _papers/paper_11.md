@@ -9,6 +9,6 @@ title: "BigIssue: A Realistic Bug Localization Benchmark"
 authors: Paul Kassianik, Erik Nijkamp, Bo Pang, Yingbo Zhou, Caiming Xiong 
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 19.pdf
 
 ---

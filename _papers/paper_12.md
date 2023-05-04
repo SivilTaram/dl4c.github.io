@@ -9,6 +9,6 @@ title: "CodeBERTScore: Evaluating Code Generation with Pretrained Models of Code
 authors: Shuyan Zhou, Uri Alon, Sumit Agarwal, Graham Neubig (Spotlight)
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 20.pdf
 
 ---

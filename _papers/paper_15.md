@@ -9,6 +9,6 @@ title: "Semantic Prefixes as an Auxiliary Target for Code Understanding and Gene
 authors: Kechen Qin, Fan Yang, Kai-Wei Chang, Prashan Wanigasekara, Xinyue Liu, Chengwei Su, Emre Barut 
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 23.pdf
 
 ---

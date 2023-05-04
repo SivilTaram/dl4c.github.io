@@ -9,6 +9,6 @@ title: "SYNTHESIS OF MATHEMATICAL PROGRAMS FROM NATURAL LANGUAGE SPECIFICATIONS"
 authors: Ganesh Prasath Ramani, Shirish Karande 
 
 # Paper pdf
-pdf: {r.number}.pdf
+pdf: 32.pdf
 
 ---
