@@ -5,7 +5,10 @@ sequence_id: 22
 # Paper title
 title: "APerfCode: Auto Conversion to Performant Code"
 
+# Paper authors
+authors: Sharod Roy Choudhury, Mayank Mishra, Rekha Singhal, Sirish Karande 
+
 # Paper pdf
-pdf: 35.pdf
+pdf: {r.number}.pdf
 
 ---

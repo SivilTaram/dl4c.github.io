@@ -5,7 +5,10 @@ sequence_id: 20
 # Paper title
 title: "Explicit Knowledge Transfer for Weakly-Supervised Code Generation"
 
+# Paper authors
+authors: Zhangir Azerbayev, Ansong Ni, Hailey Schoelkopf, Dragomir Radev 
+
 # Paper pdf
-pdf: 33.pdf
+pdf: {r.number}.pdf
 
 ---

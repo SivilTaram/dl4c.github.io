@@ -5,7 +5,10 @@ sequence_id: 9
 # Paper title
 title: "Leveraging Static Analysis for Bug Repair"
 
+# Paper authors
+authors: Ruba Mutasim, Gabriel Synnaeve, David Pichardie, Baptiste Roziere 
+
 # Paper pdf
-pdf: 15.pdf
+pdf: {r.number}.pdf
 
 ---

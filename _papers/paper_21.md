@@ -5,7 +5,10 @@ sequence_id: 21
 # Paper title
 title: "XLCOST: A BENCHMARK DATASET FOR CROSS- LINGUAL CODE INTELLIGENCE"
 
+# Paper authors
+authors: Ming Zhu, Aneesh Jain, Karthik Suresh, Roshan Ravindran, Sindhu Tipirneni, Chandan K. Reddy 
+
 # Paper pdf
-pdf: 34.pdf
+pdf: {r.number}.pdf
 
 ---

@@ -5,7 +5,10 @@ sequence_id: 0
 # Paper title
 title: "A Generic Prompt for an LLM that enables NL-to-SQL across Domains and Compositions"
 
+# Paper authors
+authors: Aseem Arora, Shabbirhussain Bhaisaheb, Manasi Patwardhan, Lovekesh Vig, Gautam Shroff 
+
 # Paper pdf
-pdf: 3.pdf
+pdf: {r.number}.pdf
 
 ---
