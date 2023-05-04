@@ -8,6 +8,23 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
+ <div class = "post-content">
+    <table style="border-collapse: collapse; border: none;">
+    {% assign papers = site.papers | sort: "sequence_id" %}
+      {% for paper in  papers %}
+        <tr style="border: none;">
+            <td style="border: none;">
+                <div class="col-xs-12">
+                    <p align="center">
+                       <a href="{{ organizer.img | prepend: '/assets/pdfs/' | prepend: site.baseurl | prepend: site.url }} {{ organizer.pdf }}" target="_blank">{{ paper.title }}</a>
+                    </p>
+                </div>
+            </td>
+        </tr>
+      {% endfor %}
+    </table>
+
+
   <div class = "post-content">
 	{{ content }}
   </div>
