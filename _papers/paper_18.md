@@ -6,7 +6,7 @@ sequence_id: 19000
 title: "ScriptoriumWS: A Code Generation Assistant for Weak Supervision"
 
 # Paper authors
-authors: Tzu-Heng Huang, Harit Vishwakarma, Nicholas Roberts, Catherine Cao, Spencer Schoenberg, Frederic Sala 
+authors: Tzu-Heng Huang, Catherine Cao, Spencer Schoenberg, Harit Vishwakarma, Nicholas Roberts, Frederic Sala 
 
 # Paper pdf
 pdf: 30.pdf
