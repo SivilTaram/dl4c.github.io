@@ -17,6 +17,8 @@ We are pleased to announce that Deep Learning for Code (DL4C) is returning to IC
 
 #### News
 
+**May 12, 2023** We have successfully concluded our workshop this year. Thank you all!! In case you miss the lightning talk session, all the recordings can be found at [here](https://drive.google.com/drive/folders/1Ii2_nScErMYoOXcGNMlBnIPwVkREorkC). 
+
 **May 4, 2023** Updated all accepted papers and the schedule. Congrats to all authors and look forward to the workshop tomorrow :)
 
 **Feb 10, 2023** Upon the request of the community, we have extended the submission deadline to **February 12th, 11:59PM AoE**. We look forward to your submissions!
