@@ -12,27 +12,21 @@ layout: home
 
 
 
-We are pleased to announce that Deep Learning for Code (DL4C) is returning to ICLR on **May 5, 2023**! The submission deadline is **February 12th, 11:59PM AoE**. The link to submit is here located [here](https://openreview.net/group?id=ICLR.cc/2023/Workshop/DL4C)
+We are pleased to announce that Deep Learning for Code (DL4C) is returning to ICLR on **Apr 27, 2025**! The submission deadline is **February 12th, 11:59PM AoE**. The link to submit is here located [here](https://openreview.net/group?id=ICLR.cc/2025/Workshop/DL4C)
 
 
 #### News
 
-**May 12, 2023** We have successfully concluded our workshop this year. Thank you all!! In case you miss the lightning talk session, all the recordings can be found at [here](https://drive.google.com/drive/folders/1Ii2_nScErMYoOXcGNMlBnIPwVkREorkC). 
+**Dec 10, 2024** We released the first call for papers. The submissions deadline is Feb 12th, 2025 23:59 AoE. We look forward to your submissions!
 
-**May 4, 2023** Updated all accepted papers and the schedule. Congrats to all authors and look forward to the workshop tomorrow :)
+**Dec 10, 2024** We are looking for program committee members. Please sign up at [this google form](https://docs.google.com/forms/d/e/1FAIpQLSc0jcjGpD31_AQ1ddFQ1YBQxqvjs7HBe-XL91N7Vu29GpPShg/viewform)
 
-**Feb 10, 2023** Upon the request of the community, we have extended the submission deadline to **February 12th, 11:59PM AoE**. We look forward to your submissions!
-
-**Jan 24, 2023** We will extend the submission deadline to Feb. 10th 23:59 AoE. We look forward to your submissions!
-
-**Jan 24, 2023** We are looking for program committee members. Please sign up at [this google form](https://docs.google.com/forms/d/e/1FAIpQLSeivyAwz7vVY-X2alzO7Uj4xaHe7gtshg5SApdQRz_LyhE_ig/viewform)
-
-**Jan 9, 2023** [Finalized Speaker List](/speakers/)
+**Dec 10, 2024** We are excited to announce our amazing [invited speakers](/speakers/)
 
 
 #### About
 
-The second DL4C workshop will provide a vibrant virtual platform for researchers to share their work on deep learning for code, emphasizing recent advances and challenges, for example: HCI for Code, Evaluation for Code, Inference for Code, Responsible AI for Code, and Open Sourcing efforts in deep learning for code.
+The second DL4C workshop will provide a vibrant virtual platform for researchers to share their work on deep learning for code, emphasizing emergent possibilities and challenges, for example: agentic methods for programming tasks, post-training and alignment for code, developer productivity and HCI for code, open science and responsible AI for code, and benchmarking and evaluation for code.
 
 Please join us for a day of exciting talks, posters, and discussions on the latest advances in deep learning for code!
 

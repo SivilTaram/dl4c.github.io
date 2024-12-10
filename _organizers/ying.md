@@ -1,18 +1,18 @@
 ---
-sequence_id: 0
+sequence_id: 7
 
 # Name of the organizer
-name: Torsten Scholak
+name: Ying Sheng
 
 # Link to the organizer's webpage
-webpage: https://tscholak.github.io
+webpage: https://sites.google.com/view/yingsheng
 
 # Primary affiliation
-affil: ServiceNow Research
+affil: University of California, Los Angeles
 # Link to the primary affiliation
-affil_link: https://www.servicenow.com/research
+affil_link: https://www.ucla.edu/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: torsten.jpg
+img: ying.png
 
 ---

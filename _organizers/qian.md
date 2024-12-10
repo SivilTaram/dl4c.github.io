@@ -1,17 +1,18 @@
 ---
-sequence_id: 2
+sequence_id: 4
 
 # Name of the organizer
-name: Devjeet Roy 
+name: Qian Liu
 
 # Link to the organizer's webpage
-webpage: https://devjeetr.github.io/
+webpage: https://siviltaram.github.io/
 
 # Primary affiliation
-affil: Washington State University 
+affil: TikTok
 # Link to the primary affiliation
-affil_link: https://wsu.edu/
+affil_link: https://www.tiktok.com/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: devjeet.jpeg
+img: qian.jpg
+
 ---

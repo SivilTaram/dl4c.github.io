@@ -2,16 +2,17 @@
 sequence_id: 3
 
 # Name of the organizer
-name: Disha Shrivastava
+name: Zora Wang
 
 # Link to the organizer's webpage
-webpage: https://shrivastavadisha.github.io
+webpage: https://zorazrw.github.io/
 
 # Primary affiliation
-affil:  Quebec Artificial Intelligence Institute (Mila)
+affil: Carnegie Mellon University
 # Link to the primary affiliation
-affil_link: https://mila.quebec/en/
+affil_link: https://www.lti.cs.cmu.edu/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: disha.jpg
+img: zora.jpeg
+
 ---

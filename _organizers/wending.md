@@ -1,17 +1,18 @@
 ---
-sequence_id: 2
+sequence_id: 6
 
 # Name of the organizer
-name: Devjeet Roy 
+name: Wen-Ding Li
 
 # Link to the organizer's webpage
-webpage: https://devjeetr.github.io/
+webpage: https://wending.dev/
 
 # Primary affiliation
-affil: Washington State University 
+affil: Cornell University
 # Link to the primary affiliation
-affil_link: https://wsu.edu/
+affil_link: https://www.cornell.edu/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: devjeet.jpeg
+img: wending.jpeg
+
 ---
