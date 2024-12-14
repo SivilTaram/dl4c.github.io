@@ -32,7 +32,7 @@ Please consider submitting a paper describing your work, which can be research p
 
 ## Important Dates
 
-* Submissions will open on January 3rd, 2025 at TBA.
+* Submissions will open in January, we will share the link for the submission on this page.
 * **Submissions will close February Feb 12th, 2025 23:59 AoE.** There is no separate deadline for abstracts.
 * Accept/reject notifications will be sent **March 6th, 2025.**
 * Authors of spotlighted papers will be invited to give a short talk at the workshop and will be notified with details shortly after the acceptance notifications.
@@ -73,7 +73,7 @@ Furthermore, for authors of work accepted at ICLR 2025 who wish to promote their
 
 ##### **How do I submit a paper?**
 
-Go to TBA and click on the "ICLR 2025 Workshop DL4C Submission" button.
+We will share the link to the submission website in January 2025.
 
 Authors of papers accepted at ICLR 2025 who wish to submit their work to the workshop do so by [contacting us](/contactus) via email.
 
