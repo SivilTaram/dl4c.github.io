@@ -82,13 +82,13 @@ We accept submissions of the following types:
 2. Work that is submitted elsewhere and is still under review. If you submit, make sure you are not violating the submission guidelines and anonymity requirements of the other venue(s).
 3. Work that has been rejected at ICLR 2025.
 
-Furthermore, for authors of work accepted at ICLR 2025 who wish to promote their work at DL4C, we will be happy to consider a dual submission. The DL4C organizers will decide if the work is going to be cross-listed on the DL4C website. The decision is based solely on relevance to DL4C; there will not be a review process for the work. Such submissions are exempt from spotlighting, and a poster slot is available upon request. Please [contact us](/contactus).
+Furthermore, for authors of work accepted at ICLR 2025 who wish to promote their work at DL4C, we will be happy to consider a dual submission. The DL4C organizers will decide if the work is going to be cross-listed on the DL4C website. The decision is based solely on relevance to DL4C; there will not be a review process for the work. Such submissions are exempt from spotlighting, and a poster slot is available upon request. Please [contact us](http://dl4c.github.io/contactus).
 
 ##### **How do I submit a paper?**
 
 We will share the link to the submission website in January 2025.
 
-Authors of papers accepted at ICLR 2025 who wish to submit their work to the workshop do so by [contacting us](/contactus) via email.
+Authors of papers accepted at ICLR 2025 who wish to submit their work to the workshop do so by [contactig us](http://dl4c.github.io/contactus) via email.
 
 ##### **Are we allowed to submit a paper with an appendix?** 
 
