@@ -37,11 +37,11 @@ plugins:
 # this and add the path to the pages in order as they should show up
 header_pages:
 - index.md
+- callforpapers.md
 - speakers.md
 - organizers.md
 - papers.md
 - schedule.md
-- callforpapers.md
 - sponsors.md
 - contactus.md
 
