@@ -43,6 +43,18 @@ Please consider submitting a paper describing your work, which can be research p
 DL4C is **non-archival** and thus **dual submission is allowed** where permitted by third parties. Please see the FAQ below for more details.
 Authors should check their email (and spam folder) for acceptance decisions and instructions on how to submit their camera-ready paper and poster by the deadline.
 
+
+## Tiny papers
+We also encourage the submission of Tiny Papers with the following goas:
+* Creating alternative, complementary, and diverse entry points to research. And in particular, creating approachable avenues for beginners to enter and enjoy the ICLR community.
+* Celebrating intermediate breakthroughs in machine learning.
+* Efficiently disseminating ideas, findings, and opinions.
+We require every submission to have at least one key author that meets the underrepresented minority (URM) criteria.
+
+The papers will be two pages long (plus references) and their submission process will follow the same timeline of the other contributed papers.
+We will share a link for the submission in January 2025.
+
+
 ## FAQ
 
 ##### **Will the OpenReview be open to the public?**
