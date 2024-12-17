@@ -8,9 +8,9 @@ name: Ying Sheng
 webpage: https://sites.google.com/view/yingsheng
 
 # Primary affiliation
-affil: University of California, Los Angeles
+affil: xAI
 # Link to the primary affiliation
-affil_link: https://www.ucla.edu/
+affil_link: https://x.ai/
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
 img: ying.png
