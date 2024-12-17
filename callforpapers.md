@@ -34,10 +34,10 @@ Please consider submitting a paper describing your work, which can be research p
 ## Important Dates
 
 * Submissions will open in January, we will share the link for the submission on this page.
-* **Submissions will close February Feb 12th, 2025 23:59 AoE.** There is no separate deadline for abstracts.
-* Accept/reject notifications will be sent **March 6th, 2025.**
+* **Submissions will close February Feb 3rd, 2025 23:59 AoE.** There is no separate deadline for abstracts.
+* Accept/reject notifications will be sent **March 5th, 2025.**
 * Authors of spotlighted papers will be invited to give a short talk at the workshop and will be notified with details shortly after the acceptance notifications.
-* Camera-ready pdfs and posters of accepted submissions are due by April 20th, 2025 11:59 PM AoE.
+* Camera-ready pdfs and posters of accepted submissions are due by March 20th, 2025 11:59 PM AoE.
 * The workshops will take place on April 27th, 2025 at the Singapore EXPO
 
 DL4C is **non-archival** and thus **dual submission is allowed** where permitted by third parties. Please see the FAQ below for more details.
