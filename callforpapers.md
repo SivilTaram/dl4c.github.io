@@ -48,8 +48,6 @@ Authors should check their email (and spam folder) for acceptance decisions and 
 
 This year, ICLR is discontinuing the separate “Tiny Papers” track, and is instead requiring each workshop to accept short paper submissions, with an eye towards inclusion; see ​​https://iclr.cc/Conferences/2025/CallForTinyPapers for more details. Authors of these papers will be earmarked for potential funding from ICLR, but need to submit a separate application for Financial Assistance that evaluates their eligibility. This application for Financial Assistance to attend ICLR 2025 will become available on https://iclr.cc/Conferences/2025/ at the beginning of February and close on March 2nd.
 
-For any questions about the Tiny Papers track, please contact the DEI Chairs in the slack channel #tiny-papers or at diversity-chairs@iclr.cc.
-
 In DL4C workshop, we welcome Tiny / Short Papers submissions with these goals:
 * Create alternative entry points to research, and in particular, approachable avenues for beginners to enter and enjoy the ICLR community;
 * Celebrate intermediate breakthroughs in representation learning research;
