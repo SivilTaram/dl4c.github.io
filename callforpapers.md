@@ -29,7 +29,7 @@ Benchmarks for code such execution-based benchmarks, code understanding, code ef
 
 Other topics of interest include but are not limited to: Reinforcement Learning for Code, Pre-training Methods and Representation for Code, From Natural Language To Code, Code Generation for Applications Beyond Code such as Reasoning, Decision Making, and Algorithmic Discovery, Formal Methods for Code, and various applications of code models such as Program Repair, Code Translation, Code Explanation, etc. 
 
-Please consider submitting a paper describing your work, which can be research papers, technical papers, position papers, or system demonstrations. We are calling for papers with 4 to up to 8 pages of content plus unlimited references. To prepare your submission, please use the LaTeX style files for ICLR 2025, provided at [https://github.com/ICLR/Master-Template/raw/master/iclr2025.zip](https://github.com/ICLR/Master-Template/raw/master/iclr2025.zip).
+Please consider submitting a paper describing your work, which can be research papers, technical papers, position papers, or system demonstrations. We are calling for papers with up to 9 pages of content (not including references and supplementary materials). To prepare your submission, please use the LaTeX style files for ICLR 2025, provided at [https://github.com/ICLR/Master-Template/raw/master/iclr2025.zip](https://github.com/ICLR/Master-Template/raw/master/iclr2025.zip).
 
 ## Important Dates
 
@@ -44,16 +44,18 @@ DL4C is **non-archival** and thus **dual submission is allowed** where permitted
 Authors should check their email (and spam folder) for acceptance decisions and instructions on how to submit their camera-ready paper and poster by the deadline.
 
 
-## Tiny papers
-We also encourage the submission of Tiny Papers with the following goas:
-* Creating alternative, complementary, and diverse entry points to research. And in particular, creating approachable avenues for beginners to enter and enjoy the ICLR community.
-* Celebrating intermediate breakthroughs in machine learning.
-* Efficiently disseminating ideas, findings, and opinions.
-We require every submission to have at least one key author that meets the underrepresented minority (URM) criteria.
+## Tiny / Short papers
 
-The papers will be two pages long (plus references) and their submission process will follow the same timeline of the other contributed papers.
-We will share a link for the submission in January 2025.
+This year, ICLR is discontinuing the separate “Tiny Papers” track, and is instead requiring each workshop to accept short paper submissions, with an eye towards inclusion; see ​​https://iclr.cc/Conferences/2025/CallForTinyPapers for more details. Authors of these papers will be earmarked for potential funding from ICLR, but need to submit a separate application for Financial Assistance that evaluates their eligibility. This application for Financial Assistance to attend ICLR 2025 will become available on https://iclr.cc/Conferences/2025/ at the beginning of February and close on March 2nd.
 
+For any questions about the Tiny Papers track, please contact the DEI Chairs in the slack channel #tiny-papers or at diversity-chairs@iclr.cc.
+
+In DL4C workshop, we welcome Tiny / Short Papers submissions with these goals:
+* Create alternative entry points to research, and in particular, approachable avenues for beginners to enter and enjoy the ICLR community;
+* Celebrate intermediate breakthroughs in representation learning research;
+* Efficiently disseminate ideas, findings, and opinions within the ICLR community.
+
+All submissions must be limited to 4 pages (not including references and supplementary materials) and will follow the same timeline as regular long papers.
 
 ## FAQ
 
